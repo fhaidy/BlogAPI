@@ -72,11 +72,11 @@ namespace Blog.Controllers
             catch (DbUpdateException)
             {
                 return StatusCode(500, "Não foi possível incluir a categoria.");
-    }
+            }
             catch (Exception)
             {
                 return StatusCode(500, "Falha interna no servidor.");
-}
+            }
         }
 
 
