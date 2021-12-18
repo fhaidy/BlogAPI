@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Blog\\Blog.csproj": {}
+    "C:\\dev\\BlogAPI\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Blog\\Blog.csproj": {
+    "C:\\dev\\BlogAPI\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\dev\\BlogAPI\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\dev\\Blog\\Blog.csproj",
+        "projectPath": "C:\\dev\\BlogAPI\\Blog.csproj",
         "packagesPath": "C:\\Users\\Fhaidy Maciel\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Blog\\obj\\",
+        "outputPath": "C:\\dev\\BlogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fhaidy Maciel\\AppData\\Roaming\\NuGet\\NuGet.Config",
