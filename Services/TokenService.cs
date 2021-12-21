@@ -22,6 +22,8 @@ namespace Blog.Services
                 Subject = new ClaimsIdentity( new Claim[]
                 {
                     new Claim(ClaimTypes.Name, "fhaidy"),
+                    new Claim(ClaimTypes.Role, "user"),
+                    new Claim(ClaimTypes.Role, "author"),
                     new Claim(ClaimTypes.Role, "admin"),
                     new Claim("fruta", "banana")
                 })
